@@ -31,12 +31,6 @@ To get a local copy up and running, follow these simple example steps.
 - Twitter: [ChrisboboSys](https://twitter.com/ChrisboboSys)
 - LinkedIn: [kiyong-christian](https://linkedin.com/in/kiyong-christian)
 
-👤 **Author2**
-
-- GitHub:
-- Twitter:
-- LinkedIn:
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
